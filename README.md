@@ -1,2 +1,2 @@
 25 y.o
-Begginer python/bash | Information analyst
+Begginer python | Information analyst

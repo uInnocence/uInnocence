@@ -1,2 +1,2 @@
-25 y.o
-Begginer python | Information analyst
+27 y.o
+Incident Response teamlead
